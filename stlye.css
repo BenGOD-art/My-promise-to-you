@@ -16,35 +16,42 @@
 }
 
 #first-section {
-    background-image: url(/images/IMG_3523.jpg);
+    background-image: url(https://netstorage-legit.akamaized.net/images/df4c8dbb501bcfe7.jpg?imwidth=900);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
 }
 
 #two-section {
-    background-image: url(https://i.pinimg.com/564x/cd/b5/6d/cdb56df70b160ac5faf350ec1b55aeb8.jpg);
+    background-image: url(https://scontent.facc2-1.fna.fbcdn.net/v/t1.0-9/31235042_185696218725876_3782773148663939072_n.jpg?_nc_cat=106&_nc_sid=85a577&_nc_eui2=AeGT036T-REtKE2X7WTTAiQRNgIi5UFC1XQ2AiLlQULVdJTM3on7cMq1SmIJj1_JJzZ_IpASQ7xO66vaet3-X2lh&_nc_oc=AQnjsBIB7GYFASScYCQhAe3q82Ze011ZBXVyVUVItwZv10BE-PRpmwP9BGnUsvPFk04&_nc_ht=scontent.facc2-1.fna&oh=e8d490720e428d6d744c11635bde4ada&oe=5EE46136);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+#three-section {
+    background-image: url(https://scontent.facc2-1.fna.fbcdn.net/v/t1.0-9/80807303_2524907884455529_9113806179888267264_n.jpg?_nc_cat=101&_nc_sid=dd7718&_nc_eui2=AeFptOG05B78khoOvwtZntV6SJg8H9_f51VImDwf39_nVUHiyFfxuI4aJTenOo0L5rbNOVTc-iLmS2YzI_sNAvx_&_nc_oc=AQnpjr18VDt21zr3YIjoMn09TAAlzexLnvyE_iRyN-nnTfxMN58AvTCgyPrt0DCLKJw&_nc_ht=scontent.facc2-1.fna&oh=60af9fcfc9fca619fa1e0d2891f05070&oe=5EE53CA4);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
 }
 
 p1 {
-    color: rgba(255, 127, 80, 0.562);
+    color: rgba(47, 16, 187, 0.685);
 }
 
 p2 {
-    color: rgba(10, 82, 10, 0.692);
+    color: rgba(175, 18, 26, 0.76);
     font-weight: 400;
 }
 
 h2 {
-    color: rgba(220, 20, 60, 0.815);
+    color: rgba(203, 39, 224, 0.815);
     margin-bottom: 15px;
 }
 
 .make {
-    background-color: rgba(6, 6, 5, 0.749);
+    background-color: rgba(168, 28, 223, 0.863);
     width: 20px;
     height: 20px;
     margin: 5% auto;
@@ -57,7 +64,7 @@ h2 {
 }
 
 .text {
-    color: rgba(207, 29, 118, 0.822);
+    color: rgba(64, 173, 61, 0.822);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-style: italic;
 }
